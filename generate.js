@@ -22,7 +22,7 @@ const createPassword = () => {
 
         // confirms length of password 
         else {
-            alert(`Please proceed with selecting what comprises your ${passwordLength} character long password! Atleast one selection must be considered to create a randomly generated password.`);
+            alert(`Your password is ${passwordLength} characters long! `);
         }
         //Create Password
         passwordValue = ''; // resets password each time to ensure we start with a clean slate
