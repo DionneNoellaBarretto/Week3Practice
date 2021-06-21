@@ -1,2 +1,2 @@
 # 03--PasswordGenerator_JavaScript
-Practicing Javascript where password length is fixed to 8 but characters are jumbled using a singular character variable that conntains everything numbers, uppercase, lower case and specialcharacters
+Practicing Javascript where password length is inputed by the user (8-128) but characters are jumbled using a singular character variable that conntains everything numbers, uppercase, lower case and specialcharacters
