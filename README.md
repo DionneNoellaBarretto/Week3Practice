@@ -1,1 +1,2 @@
-# Week3Practice
+# 03--PasswordGenerator_JavaScript
+Practicing Javascript 
